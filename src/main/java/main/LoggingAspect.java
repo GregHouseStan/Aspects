@@ -20,7 +20,7 @@ public class LoggingAspect {
         this.aspect = aspect;
     }*/
 
-@Around("execution(* services.*.*(..))")
+@Around("@annotation(ToLog)")
 public Object log(ProceedingJoinPoint joinPoint) throws Throwable {
     String methodName = joinPoint.getSignature().getName();
     Object [] arguments = joinPoint.getArgs();

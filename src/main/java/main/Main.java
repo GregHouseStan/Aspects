@@ -14,9 +14,11 @@ public class Main {
         Comment comment = new Comment();
         comment.setText("Demo comment");
         comment.setAuthor("Natasha");
-        String value = service.publishComment(comment);
+        service.publishComment(comment);
+        service.deleteComment(comment);
+        service.editComment(comment);
        // System.out.println(service.getClass());
-        logger.info(value);
+
 
 
     }
