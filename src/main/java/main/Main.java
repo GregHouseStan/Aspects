@@ -15,8 +15,8 @@ public class Main {
         comment.setText("Demo comment");
         comment.setAuthor("Natasha");
         service.publishComment(comment);
-        service.deleteComment(comment);
-        service.editComment(comment);
+       // service.deleteComment(comment);
+       // service.editComment(comment);
        // System.out.println(service.getClass());
 
 

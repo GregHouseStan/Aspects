@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f0ce3e2-ba1d-44f4-92c0-bb83bfe2139a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/ToLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/SecurityAspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main/LoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/LoggingAspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/ProjectConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/ProjectConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/services/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/CommentService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
